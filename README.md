@@ -11,10 +11,15 @@ The dataset used in this project is International airline passengers dataset. It
 
 # Results
 
-1. ARIMA model-
+## 1. ARIMA model-
 <img width="1009" alt="Screenshot 2022-08-13 at 3 54 48 PM" src="https://user-images.githubusercontent.com/97120462/184479635-eb1c2ca6-2c9d-4a45-8466-fc11e724ff29.png">
 
-2. SARIMA model-
+## 2. SARIMA model-
 <img width="1009" alt="Screenshot 2022-08-13 at 3 56 26 PM" src="https://user-images.githubusercontent.com/97120462/184479681-de083131-a37b-4a49-b032-9f1cd370e181.png">
 
-3. 
+## 3. Prophet model-
+
+<img width="1089" alt="Screenshot 2022-08-13 at 4 04 41 PM" src="https://user-images.githubusercontent.com/97120462/184479935-b933121c-2d30-4c79-a455-c7a64a9d2157.png">
+
+## 4. XGBoost model-
+<img width="1097" alt="Screenshot 2022-08-13 at 4 08 50 PM" src="https://user-images.githubusercontent.com/97120462/184480059-82e3ba3b-e534-490d-a168-974d351d5fc6.png">
