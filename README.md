@@ -14,8 +14,20 @@ The dataset used in this project is International airline passengers dataset. It
 ## 1. ARIMA model-
 <img width="1009" alt="Screenshot 2022-08-13 at 3 54 48 PM" src="https://user-images.githubusercontent.com/97120462/184479635-eb1c2ca6-2c9d-4a45-8466-fc11e724ff29.png">
 
+MAPE Value- 23.16%
+
+
+<img width="251" alt="Screenshot 2022-08-15 at 8 27 30 PM" src="https://user-images.githubusercontent.com/97120462/184659703-0740d6ef-7dab-4c78-a224-dc666bc0b32e.png">
+
+
+
 ## 2. SARIMA model-
 <img width="1009" alt="Screenshot 2022-08-13 at 3 56 26 PM" src="https://user-images.githubusercontent.com/97120462/184479681-de083131-a37b-4a49-b032-9f1cd370e181.png">
+
+MAPE Value- 19.23%
+
+<img width="245" alt="Screenshot 2022-08-15 at 8 29 08 PM" src="https://user-images.githubusercontent.com/97120462/184660017-8ecf976c-c15f-4d7f-96b7-30ad19256b92.png">
+
 
 ## 3. Prophet model-
 
