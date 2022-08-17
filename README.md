@@ -35,3 +35,7 @@ MAPE Value- 19.23%
 
 ## 4. XGBoost model-
 <img width="1097" alt="Screenshot 2022-08-13 at 4 08 50 PM" src="https://user-images.githubusercontent.com/97120462/184480059-82e3ba3b-e534-490d-a168-974d351d5fc6.png">
+
+Submitted by-
+1. Vaibhav Singh Panwar
+2. Vivek Kumar
