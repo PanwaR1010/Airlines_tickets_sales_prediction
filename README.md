@@ -45,6 +45,6 @@ The dataset used in this project is International airline passengers dataset. It
 
 <img width="926" alt="Screenshot 2022-08-19 at 12 32 48 PM" src="https://user-images.githubusercontent.com/97120462/185562553-968bd1bf-1a9a-408e-8ea5-b1228f05e54a.png">
 
-**Submitted by-**
+**Submitted by-**  
 1. **Vaibhav Singh Panwar**
 2. **Vivek Kumar**
