@@ -34,6 +34,11 @@ MAPE Value- 19.23%
 
 <img width="1089" alt="Screenshot 2022-08-13 at 4 04 41 PM" src="https://user-images.githubusercontent.com/97120462/184479935-b933121c-2d30-4c79-a455-c7a64a9d2157.png">
 
+MAPE Value = 14.27%
+
+<img width="463" alt="Screenshot 2022-08-19 at 12 30 55 PM" src="https://user-images.githubusercontent.com/97120462/185562233-a91a609c-41ad-4030-b75e-3bf1de5108fb.png">
+
+
 ## 4. XGBoost model-
 <img width="1097" alt="Screenshot 2022-08-13 at 4 08 50 PM" src="https://user-images.githubusercontent.com/97120462/184480059-82e3ba3b-e534-490d-a168-974d351d5fc6.png">
 
