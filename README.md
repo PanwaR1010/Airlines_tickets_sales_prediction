@@ -26,7 +26,8 @@ MAPE Value- 23.16%
 
 MAPE Value- 19.23%
 
-<img width="245" alt="Screenshot 2022-08-15 at 8 29 08 PM" src="https://user-images.githubusercontent.com/97120462/184660017-8ecf976c-c15f-4d7f-96b7-30ad19256b92.png">
+<img width="252" alt="Screenshot 2022-08-19 at 12 04 26 PM" src="https://user-images.githubusercontent.com/97120462/185557851-036e0456-d41e-498a-968a-f06a7f50d78b.png">
+
 
 
 ## 3. Prophet model-
