@@ -47,8 +47,8 @@ The dataset used in this project is International airline passengers dataset. It
 
 ### Conclusion-
 
-• Analyzed the given data to check for stationarity & decomposed it to get level, trend, seasonality, and residue \\
-• Performed ADF test for stationarity & used ARIMA, SARIMA, Prophet and XGBoosT to predict future sales \\
+• Analyzed the given data to check for stationarity & decomposed it to get level, trend, seasonality, and residue\\
+• Performed ADF test for stationarity & used ARIMA, SARIMA, Prophet and XGBoosT to predict future sales\\
 • Achieved best accuracy of 19.23% MAPE in SARIMA & 14.27% MAPE by implementing the Prophet model
 
 **Submitted by-**  
